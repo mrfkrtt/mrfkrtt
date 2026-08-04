@@ -1,50 +1,65 @@
-# Hi, I'm Maruf
+<h1 align="center">Maruf Kurt</h1>
 
-Unity and C# developer focused on gameplay systems, enemy AI, optimization and game development.
+<p align="center">
+  <strong>Unity & C# Developer</strong><br>
+  Gameplay Systems • Enemy AI • Performance Optimization
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white">
+</p>
+
+---
 
 ## About Me
 
-- Developing a commercial horror game in Unity
-- Working with C#, Unity and Blender
-- Interested in gameplay programming, AI systems and performance optimization
-- Currently improving my open-source portfolio
+I am a Unity and C# developer focused on gameplay programming, enemy AI and performance optimization.
 
-## What I Work On
+I am currently developing a private independent horror game featuring custom gameplay systems, dynamic enemy behaviour, room-based optimization and immersive audio.
 
-- Enemy AI and state-based behaviour
-- NavMesh pathfinding
-- Object pooling
-- Room-based culling and optimization
-- Asynchronous scene loading
-- Dynamic audio systems
-- Gameplay mechanics
+- Building gameplay systems with Unity and C#
+- Developing enemy search, chase and aggression behaviours
+- Working with NavMesh, state-based logic and waypoint systems
+- Optimizing runtime performance and scene transitions
+- Creating reusable and inspector-configurable Unity components
 
-## Technologies
+---
 
-- Unity
-- C#
-- Git and GitHub
-- Blender
-- FL Studio
+## Current Project
 
-## Featured Project
+### Private Unity Horror Game
 
-### Lucid Nightmares
+An independently developed horror game currently in active production.
 
-A privately developed horror game built with Unity.
+Some of the systems I have developed include:
 
-Key systems developed:
+- Custom enemy search and pursuit AI
+- Dynamic behaviour and difficulty variation
+- Procedural player, enemy and item spawning
+- Room-based object and visibility management
+- Asynchronous scene loading and asset prewarming
+- Object pooling and runtime optimization
+- Dynamic ambient, chase and environmental audio
+- Interaction, movement and combat systems
+- Elevator and room transition mechanics
 
-- Custom enemy search and chase AI
-- Dynamic room and object culling
-- Loading and prewarming system
-- Procedural spawning
-- Dynamic audio transitions
-- Gameplay and interaction systems
+The source code and project assets remain private because the game is under active commercial development.
 
-Source code is private because the project is commercially developed.
+---
 
-## Contact
+## Technical Focus
 
-- Email: your@email.com
-- LinkedIn: add-link-here
+```text
+Gameplay Programming
+Enemy AI
+State Machines
+NavMesh Navigation
+Object Pooling
+Scene Management
+Performance Profiling
+Audio Systems
+Runtime Optimization
+Git Version Control

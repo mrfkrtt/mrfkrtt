@@ -16,7 +16,6 @@
 ## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,premiere,aftereffects,illustrator" alt="Unity, Blender and Adobe tools">
-  <br><br>
-  <img src="https://img.shields.io/badge/FL%20Studio-F58220?style=for-the-badge&logoColor=white" alt="FL Studio">
+  <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,premiere,aftereffects,illustrator" height="48" alt="Software">
+  <img src="./assets/fl-studio.png" width="48" height="48" alt="FL Studio">
 </p>

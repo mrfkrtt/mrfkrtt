@@ -23,7 +23,6 @@ jobs:
           user: mfkrtt
           filename: github-metrics.svg
           template: classic
-
           config_display: columns
           config_timezone: Europe/Istanbul
           config_twemoji: yes
@@ -47,7 +46,3 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers
           plugin_people_limit: 24
-
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_delay: 30

@@ -1,20 +1,29 @@
-## About Me
-
-**Software Developer**  
-Game Development • Optimization • UI Design • Level Design  
-Currently building a PC co-op horror game.
-
-<table>
+<table width="100%">
   <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,py,html" height="38" alt="C#, C++, Python, HTML">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Software</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,premiere,aftereffects,illustrator" height="38" alt="Unity, Blender and Adobe software">
-    </td>
+    <td width="38%" valign="top">
+
+### About Me
+
+**Software Developer**
+
+Game Development • Optimization  
+UI Design • Level Design  
+PC Co-op Horror Game
+
+   </td>
+    <td width="27%" valign="top">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,html" height="42" alt="Languages">
+
+   </td>
+    <td width="35%" valign="top">
+
+### Software
+
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,pr,ae,ai" height="42" alt="Software">
+
+   </td>
   </tr>
 </table>

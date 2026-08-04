@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Unity & C# Developer</strong><br>
-  Gameplay Systems • Enemy AI • Performance Optimization
+  3D Horror Games • Multiplayer • PC Co-op • Optimization
 </p>
 
 <p align="center">
@@ -16,50 +16,19 @@
 
 ## About Me
 
-I am a Unity and C# developer focused on gameplay programming, enemy AI and performance optimization.
+I develop 3D horror and multiplayer games using Unity and C#.
 
-I am currently developing a private independent horror game featuring custom gameplay systems, dynamic enemy behaviour, room-based optimization and immersive audio.
+I am currently working on a PC co-op horror game, focusing on gameplay systems, multiplayer mechanics, performance optimization and smooth scene management.
 
-- Building gameplay systems with Unity and C#
-- Developing enemy search, chase and aggression behaviours
-- Working with NavMesh, state-based logic and waypoint systems
-- Optimizing runtime performance and scene transitions
-- Creating reusable and inspector-configurable Unity components
+## Current Focus
 
----
+- PC co-op horror games
+- Multiplayer gameplay systems
+- Unity performance optimization
+- Scene loading and runtime stability
+- 3D gameplay development
 
-## Current Project
+## Contact
 
-### Private Unity Horror Game
-
-An independently developed horror game currently in active production.
-
-Some of the systems I have developed include:
-
-- Custom enemy search and pursuit AI
-- Dynamic behaviour and difficulty variation
-- Procedural player, enemy and item spawning
-- Room-based object and visibility management
-- Asynchronous scene loading and asset prewarming
-- Object pooling and runtime optimization
-- Dynamic ambient, chase and environmental audio
-- Interaction, movement and combat systems
-- Elevator and room transition mechanics
-
-The source code and project assets remain private because the game is under active commercial development.
-
----
-
-## Technical Focus
-
-```text
-Gameplay Programming
-Enemy AI
-State Machines
-NavMesh Navigation
-Object Pooling
-Scene Management
-Performance Profiling
-Audio Systems
-Runtime Optimization
-Git Version Control
+- Email: `YOUR_EMAIL`
+- LinkedIn: [Maruf Kurt](YOUR_LINKEDIN)
